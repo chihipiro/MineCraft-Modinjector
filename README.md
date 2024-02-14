@@ -14,7 +14,7 @@ When showcasing modifications, please attribute the changes to "My (Your Name) C
 
 ---
 
-**Copyright [yyyy] [Your Name]**
+**Copyright [2024] [Chihipiro]**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
