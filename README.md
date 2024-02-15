@@ -10,7 +10,7 @@ This project is provided under the [Apache License, Version 2.0](http://www.apac
 
 ## Credits and Modifications
 
-When showcasing modifications, please attribute the changes to "My (Your Name) Code." Provide a summary of the modifications made.
+When showcasing modifications, please attribute the changes to "My Chihipiro Code." Provide a summary of the modifications made.
 
 ---
 
